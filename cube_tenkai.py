@@ -50,7 +50,7 @@ for face, (x, y) in positions.items():
 # Blenderから bpy を使って直接実行：
 
 # import urllib.request
-# url = "https://raw.githubusercontent.com/yourname/blender-scripts/main/cube_tenkai.py"
+# url = "https://raw.githubusercontent.com/threejsconf/py/main/cube_tenkai.py"
 # exec(urllib.request.urlopen(url).read())
 
 # ------------------------------------
